@@ -1,4 +1,4 @@
-README - Traffic Intersection Simulation
+Traffic Intersection Simulation
 
 Compilation instructions: This program can be compiled by using the command
 'make' in UNIX. It was tested on Mac OSX and Windows Subsystem for Linux.
