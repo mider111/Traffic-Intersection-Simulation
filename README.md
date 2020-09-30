@@ -73,4 +73,4 @@ Roadway's advance function, and passing the time remaining on each of the
 traffic lights.
 
 Animator{.h, .cpp}: Animator is used to illustrate this simulation.
-Animator given by Dr. Barry Lawson
+
